@@ -50,12 +50,14 @@
             <version>3.6.10.Final</version>
         </dependency>
 
+	    <!--
         <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
         <dependency>
             <groupId>oracle</groupId>
   			<artifactId>oracle-jdbc</artifactId>
    			 <version>11.2-xe</version>
         </dependency>
+	    -->
         
         <dependency>
         <groupId>commons-logging</groupId>
