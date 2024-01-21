@@ -36,11 +36,13 @@
     <version>3.6.0.GA</version>
 </dependency>
 
+<!--
 <dependency>
 <groupId>oracle</groupId>
   <artifactId>oracle-jdbc</artifactId>
     <version>11.2-xe</version>
 		</dependency>
+	  -->
 
     
   </dependencies>
